@@ -55,10 +55,6 @@ Below are a bunch of questions and indications of things to do. For each indicat
 	* Correct answers to the questions
 	* Slightly more than half the 1000 points will come from answering the questions. The rest will come from your edits to the code.
 
-### Names of people I worked with on this assignment
-* **Amanda Bassett (amaelena)**
-* Will Royster (arvell)
-
 ## Questions
 
 <!-- ### The first questions address the `jsPracticeLab.html` file.
@@ -70,6 +66,9 @@ This is what an example answer should look like. If you want to include some cod
 ```js
 Some JavaScript code
 ``` -->
+### Names of people I worked with on this assignment
+* **Amanda Bassett (amaelena)**
+* Will Royster (arvell)
 
 * **What does a code comment look like in JavaScript? What character/s do you have to put before a comment?**
 
