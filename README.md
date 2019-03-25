@@ -55,19 +55,13 @@ Below are a bunch of questions and indications of things to do. For each indicat
 	* Correct answers to the questions
 	* Slightly more than half the 1000 points will come from answering the questions. The rest will come from your edits to the code.
 
-### Names of people you have worked with on this assignment
-* List everyone's names and uniqnames who have worked on this assignment with you, **including your own name, but make sure YOUR name is first and bold**
-* Like this:
-* **Jackie Cohen (jczetta)**
-* Yea-Ree Chang (cyearee)
-* Ruchi Ookalkar (ruchido)
-* Innocent Obi (innoobi)
-* Zhen Wang (alejwang)
-* etc.
+### Names of people I worked with on this assignment
+* **Amanda Bassett (amaelena)**
+* Will Royster (arvell)
 
-## Questions & code instructions
+## Questions
 
-### The first questions address the `jsPracticeLab.html` file.
+<!-- ### The first questions address the `jsPracticeLab.html` file.
 
 * **This is just an example question.**
 
@@ -75,7 +69,7 @@ This is what an example answer should look like. If you want to include some cod
 
 ```js
 Some JavaScript code
-```
+``` -->
 
 * **What does a code comment look like in JavaScript? What character/s do you have to put before a comment?**
 
